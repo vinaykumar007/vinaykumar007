@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
-<img align="center" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T075408Z&X-Amz-Expires=300&X-Amz-Signature=cc4565a0b6213768dc64481800a3b0f29e0e6240128502fa1066d1817ecc8e3a&X-Amz-SignedHeaders=host&actor_id=33005658&key_id=0&repo_id=588181932">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumar007" alt="vinaykumar007" /></a> </p>
 

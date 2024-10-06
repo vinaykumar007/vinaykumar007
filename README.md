@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumar007" alt="vinaykumar007" /></a> </p>
+
 
 - 🔭 I’m currently working on **Sciml Applications for Petroleum Industry**
 

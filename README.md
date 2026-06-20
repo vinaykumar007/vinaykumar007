@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Sciml Applications for Petroleum Industry**
 
-- 💬 Ask me about **AI and ML , Computational Fluid Dynamics,Petroleum**
+- 💬 Ask me about **AI and ML ,Data Engineering, Computational Fluid Dynamics,Petroleum**
 
 - 📫 How to reach me **vinaykumar.iitkgp0206@gmail.com**
 

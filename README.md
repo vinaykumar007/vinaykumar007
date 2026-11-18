@@ -46,81 +46,51 @@ My GitHub is a working technical portfolio: a mix of computational engineering p
 
 ## Selected projects
 
-These repositories are the best starting points for understanding my technical interests. Project descriptions reflect the current repository scope; active learning and future extensions are labelled as such.
+These repositories are the best starting points for understanding my technical interests. Descriptions reflect the current repository scope; current learning and future extensions are not presented as completed results.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [CFDPython](https://github.com/vinaykumar007/CFDPython)
-
-**From governing equations to numerical flow simulation**
-
-Python/Jupyter exercises covering convection, diffusion, Burgers’ equation, Laplace, Poisson and 2D Navier–Stokes examples.
-
-**Explore:** PDE discretization · boundary conditions · explicit time stepping · stability · numerical diffusion · convergence
-
-</td>
-<td width="50%" valign="top">
-
-### [PyReservoir](https://github.com/vinaykumar007/pyreservoir)
-
-**Reservoir-engineering computation in Python**
-
-Utilities and notebooks for PVT analysis, volumetrics, well testing, material balance, decline-curve analysis and fluid-flow calculations.
-
-**Explore:** engineering equations · parameter fitting · diagnostics · uncertainty-aware analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Computational Geophysics](https://github.com/vinaykumar007/computational-geophysics)
-
-**Numerical workflows for geophysical data**
-
-Exploratory Python workflows for FFT-based gravity analysis, seismic data handling, spectral analysis, numerical derivatives and related interpretation tasks.
-
-**Explore:** signal processing · array computation · visualization · inversion/geomodelling workflows
-
-</td>
-<td width="50%" valign="top">
-
-### [GeostatsPy Intro Course](https://github.com/vinaykumar007/GeostatsPy_Intro_Course)
-
-**Spatial statistics for subsurface data**
-
-Course material and Python workflows introducing variograms, variogram modelling and kriging for spatial/subsurface data analytics.
-
-**Explore:** spatial continuity · spatial estimation · geostatistical assumptions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Petroleum Data Science & ML with Python](https://github.com/vinaykumar007/Petroleum-DS-ML-with-Python)
-
-**A collection of petroleum analytics work**
-
-A repository for petroleum data-analysis code, notebooks and presentations.
-
-**Explore:** applied data workflows connecting petroleum problems with Python
-
-</td>
-<td width="50%" valign="top">
-
-### [Computational materials simulation](https://github.com/vinaykumar007/vinaykumar007/tree/main/computational-materials-simulation)
-
-**A small, reproducible PDE case study**
-
-A 1D thermal-diffusion model using an explicit finite-difference scheme, with a parameter-study example and tests.
-
-**Explore:** physical assumptions · Fourier number/stability · numerical implementation · reproducibility
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/CFDPython">CFDPython</a></h3>
+      <p><strong>From governing equations to numerical flow simulation</strong></p>
+      <p>Python/Jupyter exercises covering convection, diffusion, Burgers’ equation, Laplace, Poisson and 2D Navier–Stokes examples.</p>
+      <p><strong>Explore:</strong> PDE discretization · boundary conditions · explicit time stepping · stability · numerical diffusion · convergence</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/pyreservoir">PyReservoir</a></h3>
+      <p><strong>Reservoir-engineering computation in Python</strong></p>
+      <p>Utilities and notebooks for PVT analysis, volumetrics, well testing, material balance, decline-curve analysis and fluid-flow calculations.</p>
+      <p><strong>Explore:</strong> engineering equations · parameter fitting · diagnostics · uncertainty-aware analysis</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/computational-geophysics">Computational Geophysics</a></h3>
+      <p><strong>Numerical workflows for geophysical data</strong></p>
+      <p>Exploratory Python workflows for FFT-based gravity analysis, seismic data handling, spectral analysis, numerical derivatives and related interpretation tasks.</p>
+      <p><strong>Explore:</strong> signal processing · array computation · visualization · inversion/geomodelling workflows</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/GeostatsPy_Intro_Course">GeostatsPy Intro Course</a></h3>
+      <p><strong>Spatial statistics for subsurface data</strong></p>
+      <p>Course material and Python workflows introducing variograms, variogram modelling and kriging for spatial/subsurface data analytics.</p>
+      <p><strong>Explore:</strong> spatial continuity · spatial estimation · geostatistical assumptions</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/Petroleum-DS-ML-with-Python">Petroleum Data Science &amp; ML with Python</a></h3>
+      <p><strong>A collection of petroleum analytics work</strong></p>
+      <p>A repository for petroleum data-analysis code, notebooks and presentations.</p>
+      <p><strong>Explore:</strong> applied data workflows connecting petroleum problems with Python</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vinaykumar007/vinaykumar007/tree/main/computational-materials-simulation">Computational materials simulation</a></h3>
+      <p><strong>A small, reproducible PDE case study</strong></p>
+      <p>A 1D thermal-diffusion model using an explicit finite-difference scheme, with a parameter-study example and tests.</p>
+      <p><strong>Explore:</strong> physical assumptions · Fourier number/stability · numerical implementation · reproducibility</p>
+    </td>
+  </tr>
 </table>
 
 ## How I approach computational work
